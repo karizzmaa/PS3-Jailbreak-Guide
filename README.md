@@ -2,10 +2,9 @@
 
 ## 📚 Contents
 
-- [⚙️ Requirements](https://github.com/karizzmaa/PS3-Jailbreak-Guide/edit/main/README.md#%EF%B8%8F-requirements)
-- [🧠 Supported Models](https://github.com/karizzmaa/PS3-Jailbreak-Guide/edit/main/README.md#-supported-models)
-- [🔧 HFW (Hybrid Firmware)](https://github.com/karizzmaa/PS3-Jailbreak-Guide/edit/main/README.md#hfw-hybrid-firmware)
-
+- [⚙️ Requirements](https://github.com/karizzmaa/PS3-Jailbreak-Guide#️-requirements)
+- [🧠 Supported Models](https://github.com/karizzmaa/PS3-Jailbreak-Guide#-supported-models)
+- [🔧 HFW (Hybrid Firmware)](https://github.com/karizzmaa/PS3-Jailbreak-Guide#hfw-hybrid-firmware)
 
 ## ⚙️ Requirements
 Before proceeding, ensure you have the following:
