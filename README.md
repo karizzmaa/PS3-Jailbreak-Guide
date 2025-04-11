@@ -9,7 +9,7 @@
 ## ⚙️ Requirements
 Before proceeding, ensure you have the following:
 
-- **A USB Stick formatted FAT32**
+- **A USB Stick formatted FAT32 (atleast 1GB) **
 
 - **A Computer to transfer files to the PlayStation 3**
 
@@ -28,4 +28,35 @@ Before proceeding, ensure you have the following:
 > 📌 To check model number see on the bottom or back (varying on model) of the console.
 
 
-## HFW (Hybrid Firmware)
+## HFW (Hybrid Firmware) and PS3HEN setup
+
+### Prerequisites 
+Before starting the jailbreak, scroll left to **settings then system settings** on your xmb and disable the following
+> Auto Update
+> 
+> Display [What's New]
+
+### Installing HFW to your PlayStation 3.
+
+On your computer, download the latest .PUP file from [here](https://www.ps3xploit.me/firmware/hfw/HFW_4.92.1_PS3UPDAT.PUP) and on your USB Stick make the following directories fom the root ```/PS3/UPDATE/``` and then paste the file you previously downloaded to the ```UPDATE``` folder and rename the file to ```PS3UPDAT.PUP```
+
+After that is done, **eject** the USB Stick from your computer and plug it into your PlayStation 3. (Should see your USB pop up in the media bars on XMB)
+
+On your PlayStation 3 scroll left to Settings and select ```System Update``` and ```Update via Storage Media``` and the HFW should pop up. Click OK, agree to the User Agreement and press **Start**. Now you can wait and it will install by it self.
+
+After the initial installation you have to perform a secondary installation, this time in **safe mode**.
+
+Completely shut down your console and Hold down the power button and it will beep a few times and turn off.
+Then again, hold down the power button until you hear to quick beeps and then let go.
+
+If you see text prompting you t connect a controller via USB that means you have succesfully entered **safe mode**.
+
+Connect your controller and press the PS button in the middle and a menu will show having multiple options.
+
+Scroll down all the way using the D-Pad and click on the ```System Update``` option with the X button on your controller.
+
+Press both the Select and Start Buttons on your controller and it will start scanning for your USB Stick, if it has trouble finding it unplug your controller right after you press the buttons so it only detects the USB stick. If done properly it will detect the HFW and you can follow the steps to download it.
+
+After its done, it will restart and boot into a HDMI screen, just select yes and you will be booted into the XMB.
+
+## Installing PS3HEN
