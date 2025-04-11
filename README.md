@@ -49,7 +49,7 @@ After the initial installation you have to perform a secondary installation, thi
 Completely shut down your console and Hold down the power button and it will beep a few times and turn off.
 Then again, hold down the power button until you hear to quick beeps and then let go.
 
-If you see text prompting you t connect a controller via USB that means you have succesfully entered **safe mode**.
+If you see text prompting you to connect a controller via USB that means you have succesfully entered **safe mode**.
 
 Connect your controller and press the PS button in the middle and a menu will show having multiple options.
 
@@ -60,3 +60,9 @@ Press both the Select and Start Buttons on your controller and it will start sca
 After its done, it will restart and boot into a HDMI screen, just select yes and you will be booted into the XMB.
 
 ## Installing PS3HEN
+After you have finished installing HFW its time to download PS3HEN.
+
+On your XMB go to the Network tab and click Internet Browser.
+Press the start button to open the Adress text field.
+In the text field type in  ```https://ps3xploit.me/``` and you will be taken to the PS3Xploit website, optionally, you can bookmark this tab for easier access.
+After this is done, on the top of the screen, hover over the ```PS3HEN``` text written in white with your cursor and click the Auto HEN Installer and press the Auto Install HEN. You might have to do this a few times but after it is done PS3HEN will be successfully installed
