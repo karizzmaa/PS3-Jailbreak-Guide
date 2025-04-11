@@ -9,7 +9,7 @@
 ## ⚙️ Requirements
 Before proceeding, ensure you have the following:
 
-- **A USB Stick formatted FAT32 (atleast 1GB) **
+- **A USB Stick formatted FAT32 (atleast 1GB)**
 
 - **A Computer to transfer files to the PlayStation 3**
 
