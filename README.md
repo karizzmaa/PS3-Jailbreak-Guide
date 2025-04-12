@@ -20,7 +20,7 @@ Before proceeding, ensure you have the following:
 | Model       | HFW   | CFW   | Notes                        |
 |-------------|-------|-------|------------------------------|
 | Original (Fat)     |✅|✅|All PS3 Fat models support both CFW and HFW|
-| Slim     |✅|⚠️|All Slim Models support HFW but only a select few support CFW (CECH-20xx and CECH-21xx)|
+| Slim     |✅|⚠️|All Slim Models support HFW, but only a select few support CFW (CECH-20xx and CECH-21xx)|
 | Super Slim     |✅|❌|Super Slim models only support HFW and not CFW|
 
 > 📌 **HFW** = Hybrid Firmware, **CFW** = Custom Firmware
@@ -38,12 +38,12 @@ Before starting the jailbreak, scroll left to **settings then system settings** 
 
 ### Installing HFW to your PlayStation 3.
 
-On your computer, download the latest .PUP file from [here](https://www.ps3xploit.me/firmware/hfw/HFW_4.92.1_PS3UPDAT.PUP) and on your USB Stick make the following directories fom the root ```/PS3/UPDATE/``` and then paste the file you previously downloaded to the ```UPDATE``` folder and rename the file to ```PS3UPDAT.PUP```
+On your computer, download the latest. PUP file from [here](https://www.ps3xploit.me/firmware/hfw/HFW_4.92.1_PS3UPDAT.PUP) and on your USB Stick make the following directories fom the root ```/PS3/UPDATE/``` and then paste the file you previously downloaded to the ```UPDATE``` folder and rename the file to ```PS3UPDAT.PUP```
 
 ![image](https://github.com/user-attachments/assets/28e18872-1a5b-46ae-8db0-032ce8b8109c)
 
 
-After that is done, **eject** the USB Stick from your computer and plug it into your PlayStation 3. (Should see your USB pop up in the media bars on XMB)
+After that is done, **eject** the USB Stick from your computer and plug it into your PlayStation 3 (you should see your USB pop up in the media bars on XMB)
 
 ![image](https://github.com/user-attachments/assets/b56b7c88-57c0-4555-8f05-c74ef1f4c5e9)
 
@@ -52,7 +52,7 @@ On your PlayStation 3 scroll left to Settings and select ```System Update``` and
 ![image](https://github.com/user-attachments/assets/79792165-2155-4b04-ba32-718c194363c6)      ![image](https://github.com/user-attachments/assets/57489924-afa6-4375-9339-20ccb52e91d3)
 
 
-After the initial installation you have to perform a secondary installation, this time in **safe mode**.
+After the initial installation, you must perform a secondary installation, this time in **safe mode**.
 
 Completely shut down your console and Hold down the power button and it will beep a few times and turn off.
 Then again, hold down the power button until you hear to quick beeps and then let go.
